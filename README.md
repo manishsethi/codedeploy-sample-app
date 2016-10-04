@@ -1,1 +1,1 @@
-# codedeploylab
+codedeploy-sample-app
